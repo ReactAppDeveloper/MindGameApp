@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mind Game</string>
+    <string name="debug">regular</string>
+    <string name="instruction">Please read carefully and play game</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6668447434437594/5269115117</string>
+
+</resources>
